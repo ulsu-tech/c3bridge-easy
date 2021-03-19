@@ -14,11 +14,11 @@ The C3 Easy Control is an application for easily uploading of KRL programs and c
 
 ## Screenshots
 ##### Main Window
-![Main Window](https://github.com/ulsu-tech/c3bridge-easy/raw/master/images/main.png)
+![Main Window](https://github.com/ulsu-tech/c3bridge-easy/raw/main/images/main.png)
 ##### SVG Converter/Uploader
-![SVG Converter](https://github.com/ulsu-tech/c3bridge-easy/raw/master/images/svg.png)
+![SVG Converter](https://github.com/ulsu-tech/c3bridge-easy/raw/main/images/svg.png)
 ##### Result
-![Result](https://github.com/ulsu-tech/c3bridge-easy/raw/master/images/result.jpg)
+![Result](https://github.com/ulsu-tech/c3bridge-easy/raw/main/images/result.jpg)
 
 ## Donate
 If you found this software useful, you can thank the author with donations via
